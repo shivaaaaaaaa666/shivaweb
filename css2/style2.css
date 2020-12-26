@@ -9,22 +9,22 @@ hr {
   border-style: none;
   border-top-style: dotted;
   border-color: grey;
-  border-width: 10px;
+  border-width: 0.625rem;
   width: 5%;
-  margin: 50px auto;
+  margin: 3.125rem auto;
 }
 
 h1 {
   font-size: 5rem;
   font-family: 'Montez','long Cang', sans-serifs;
-  margin: 50px auto 0 auto;
+  margin: 3.125rem auto 0 auto;
   color: #11999E;
 }
 
 h2 {
   font-size: 2.5rem;
   color: #11999E;
-  padding: 20px auto;
+  padding: 1.25rem auto;
 }
 
 h3 {
@@ -33,17 +33,17 @@ h3 {
 
 a {
   text-decoration: none;
-  padding: 0 10px;
+  padding: 0 0.625rem;
 }
 
 a:hover {
   color: #111d5e;
 }
-.head-hobbies {margin-left: 300px;}
+.head-hobbies {margin-left: 18.75rem;}
 
 .footer-link {
-  padding: 30px;
-  font-size: 20px;
+  padding: 1.875rem;
+  font-size: 1.25rem;
   text-decoration: none;
   color:#efbbcf ;
 }
@@ -56,38 +56,38 @@ a:hover {
 
 .top-cloud {
   position: absolute;
-  right: 200px;
-  top: 50px;
+  right: 12.5rem;
+  top: 3.125rem;
 }
 
 .bottom-cloud {
   position: absolute;
-  bottom: 300px;
-  left: 50px;
+  bottom: 18.75rem;
+  left: 3.125rem;
 }
 
 .chillies {
   float: right;
-  margin-left: 100px;
+  margin-left: 6.25rem;
   width: 20%;
   margin-right: 0px;
 }
 
 .halpin {
-  margin-right: 700px;
-  height: 80px;
-  width: 80px;
+  margin-right: 43.75rem;
+  height: 5rem;
+  width: 5rem;
 }
 
 .my-pic {
-  height: 150px;
-  width: 150px;
+   height: 9.375rem;
+  width: 9.375rem;
 }
 
 .skills1 {
   width: 20%;
   float: left;
-  margin-right: 100px;
+  margin-right: 6.25rem;
 }
 
 .nit {
@@ -100,7 +100,7 @@ a:hover {
 .top-container {
   margin: 0;
   position: relative;
-  padding-top: 30px;
+  padding-top: 1.875rem;
 }
 
 .skill-row {
@@ -121,7 +121,7 @@ a:hover {
 }*/
 .bottom-container {
   background-color: #11999E;
-  padding: 50px 0 20px;
+  padding: 3.125rem 0 1.25rem;
 }
 
 .btn {
@@ -169,9 +169,9 @@ a:hover {
 
 .p2 {
   line-height: 2;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
-.two-list {columns: 200px 2;}
+.two-list {columns: 12.5rem 2;}
 
 /*.list {
   margin-left: 218px;
@@ -179,10 +179,11 @@ a:hover {
 
 
 .hobbies {
-  line-height: 3;
-  font-size: 20px;
-padding-right: 100px;
-margin-left: 300px;
+  
+   line-height: 3;
+  font-size: 1.25rem;
+padding-right: 6.25rem;
+margin-left: 18.75rem;
 }
 
 .cheers {
@@ -191,5 +192,5 @@ margin-left: 300px;
 
 .p3 {
   line-height: 4;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
